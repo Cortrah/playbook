@@ -1,0 +1,47 @@
+110 battles total
+26 of 41 this week
+
+July 7 - 5 for 10
+==============
+Tears 2 for 5
+Hotspot 1 for 1
+Mountain 1 for 3
+Sea
+Giant 1 for 1
+Path
+
+July 8 - 8 for 14
+==============
+Tears 2 for 3
+Hotspot 0 for 5
+Mountain 1 for 1
+Sea 0 for 1
+Giant 4 for 4
+Path 1 for 1
+
+July 11 - 1 for 10
+==============
+Tears
+Hotspot 0 for 4
+Mountain 0 for 2
+Sea 1 for 2
+Giant 0 for 1
+Path 0 for 2
+
+July 12 - 12 for 17
+==============
+Tears 1 for 2
+Hotspot 2 for 4
+Mountain 4 for 4
+Sea 2 for 3
+Giant 2 for 2
+Path 0 for 1
+
+totals
+==============
+Tears 5 for 10
+Hotspot 3 for 14
+Mountain 6 for 10
+Sea 3 for 6
+Giant 7 for 8
+Path 1 for 4
