@@ -1,0 +1,14 @@
+Setting up Replays
+
+You can do it manually but there is a mod to make the changes as well.
+
+When installing the mods you need to be sure it's a version that matches the current client version
+
+The replay filename conventions varys a bit from the map names
+
+Warriors Path = Path_warrior
+Hotspot = OC_bees_to_honey
+Sleeping Giant = Sleeping_Giant
+Mountain Range = ridge
+Tears of the Desert = naval_mission
+Sea of Fortune = sea_hope
