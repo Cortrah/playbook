@@ -1,0 +1,38 @@
+Things to Track
+
+Aggregate data from each player on the team, & possibly both teams for analysis
+
+Aggregate for random, training and clan battles
+
+Both clan and personal dashboards can track progress and improvement by ship and captain
+
+Matchmaker for Clan Battle Training Matches
+
+Analysis Tools and discussion tools in discourse (both video and data)
+
+A plugin that analyzes game events and gives audio cues
+
+destroyer
+    win%
+    exp
+    spotting damage
+    caps
+    damage via main -> vs shiptype and ship
+    damage via torps -> vs shiptype and ship
+    survival time
+    main %
+    torp %
+    map
+    mode
+
+    location and situation of death
+    previous 2 minutes
+
+    targeted/targeting ratio
+    target priorities
+    target coordination
+    number of ships targeting & distance
+    friendly guns and distance
+
+    ship modules
+    captain skills
